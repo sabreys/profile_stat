@@ -1,2 +1,1 @@
-# profile_stat
-My Github account stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabreys&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
